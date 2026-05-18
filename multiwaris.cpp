@@ -34,3 +34,7 @@ public:
         cout << "budi dibuat\n " << umur << endl;
     }
 };
+int main() {
+    budi a(12);
+    return 0;
+}
